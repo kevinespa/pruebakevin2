@@ -1,5 +1,5 @@
 import React from 'react'
-import imagendeusurio from './assets/react.svg'
+import imagendeusurio from '../assets/react.svg'
 
 function Header() {
   return (
